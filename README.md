@@ -36,4 +36,6 @@ https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux-Driver_300ci_35
 
 https://partner.utax.de/C125712200447418/vwLookupDownloads/Drive-Utility-Disk_2508ci-7008ci.zip/$FILE/Drive-Utility-Disk_2508ci-7008ci.zip
 
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20English.zip/$FILE/Linux%20PPD%20English.zip
+
 Both are stored to archive.org
