@@ -33,5 +33,6 @@ https://partner.utax.de/C12571260052E282/direct/treiber-druck-kopier-fax-grossfo
 You receive a download link. E.G.:
 https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux-Driver_300ci_350ci_400ci_20160922.zip/$FILE/Linux-Driver_300ci_350ci_400ci_20160922.zip
 
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Drive-Utility-Disk_2508ci-7008ci.zip/$FILE/Drive-Utility-Disk_2508ci-7008ci.zip
 
 Both are stored to archive.org
