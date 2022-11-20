@@ -38,4 +38,16 @@ https://partner.utax.de/C125712200447418/vwLookupDownloads/Drive-Utility-Disk_25
 
 https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20English.zip/$FILE/Linux%20PPD%20English.zip
 
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20French.zip/$FILE/Linux%20PPD%20French.zip
+
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20German.zip/$FILE/Linux%20PPD%20German.zip
+
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20Italian.zip/$FILE/Linux%20PPD%20Italian.zip
+
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20Portuguese.zip/$FILE/Linux%20PPD%20Portuguese.zip
+
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20Spanish.zip/$FILE/Linux%20PPD%20Spanish.zip
+
+
+
 Both are stored to archive.org
