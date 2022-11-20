@@ -64,4 +64,4 @@ https://partner.utax.de/C125712200447418/vwLookupDownloads/MAC%20PPD.zip/$FILE/M
 LP3040 mac PPD is same file as CLP2536 and others for MAC, as here too PPDs are used like in linux cups
 
 
-Both are stored to archive.org
+At least these are stored to archive.org
