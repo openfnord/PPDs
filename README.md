@@ -50,4 +50,10 @@ https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux%20PPD%20Spanish
 
 
 
+Color Laser Printers:
+
+https://partner.utax.de/C125712200447418/vwLookupDownloads/TALinuxPackages_cCD-cLP_20140115.tar.gz/$FILE/TALinuxPackages_cCD-cLP_20140115.tar.gz
+
+
+
 Both are stored to archive.org
