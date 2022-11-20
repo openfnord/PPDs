@@ -25,3 +25,13 @@ https://www.utax.co.uk/downloads/drivers/print-driver-linux-ppd-5057i/
 
 https://web.archive.org/web/20220117001303/https://www.utax.co.uk/downloads/drivers/print-driver-linux-ppd-5057i/
 
+
+
+Go here and select your model (German):
+https://partner.utax.de/C12571260052E282/direct/treiber-druck-kopier-fax-grossformat-systeme
+
+You receive a download link. E.G.:
+https://partner.utax.de/C125712200447418/vwLookupDownloads/Linux-Driver_300ci_350ci_400ci_20160922.zip/$FILE/Linux-Driver_300ci_350ci_400ci_20160922.zip
+
+
+Both are stored to archive.org
