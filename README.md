@@ -54,6 +54,10 @@ Color Laser Printers:
 
 https://partner.utax.de/C125712200447418/vwLookupDownloads/TALinuxPackages_cCD-cLP_20140115.tar.gz/$FILE/TALinuxPackages_cCD-cLP_20140115.tar.gz
 
+CLP2536:
+https://partner.utax.de/C125712200447418/vwLookupDownloads/MAC%20PPD.zip/$FILE/MAC%20PPD.zip
+
+
 
 
 Both are stored to archive.org
