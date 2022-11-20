@@ -58,6 +58,9 @@ CLP2536:
 https://partner.utax.de/C125712200447418/vwLookupDownloads/MAC%20PPD.zip/$FILE/MAC%20PPD.zip
 
 
+LP3040:
+https://partner.utax.de/C125712200447418/vwLookupDownloads/MAC%20PPD.zip/$FILE/MAC%20PPD.zip
+
 
 
 Both are stored to archive.org
